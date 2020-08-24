@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "STA.Data/1.0.0": {
+        "dependencies": {
+          "STA.Core": "1.0.0",
+          "STA.Domain": "1.0.0",
+          "STA.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "STA.Data.dll": {}
+        }
+      },
+      "STA.Core/1.0.0": {
+        "runtime": {
+          "STA.Core.dll": {}
+        }
+      },
+      "STA.Domain/1.0.0": {
+        "dependencies": {
+          "STA.Core": "1.0.0"
+        },
+        "runtime": {
+          "STA.Domain.dll": {}
+        }
+      },
+      "STA.ViewModel/1.0.0": {
+        "dependencies": {
+          "STA.Core": "1.0.0",
+          "STA.Domain": "1.0.0"
+        },
+        "runtime": {
+          "STA.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STA.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STA.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STA.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STA.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

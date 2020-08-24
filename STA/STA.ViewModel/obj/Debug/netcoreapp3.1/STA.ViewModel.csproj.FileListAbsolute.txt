@@ -1,0 +1,14 @@
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.ViewModel.deps.json
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.ViewModel.dll
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.ViewModel.pdb
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.Core.dll
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.Domain.dll
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.Core.pdb
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\bin\Debug\netcoreapp3.1\STA.Domain.pdb
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.csprojAssemblyReference.cache
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.AssemblyInfoInputs.cache
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.AssemblyInfo.cs
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.csproj.CoreCompileInputs.cache
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.csproj.CopyComplete
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.dll
+E:\Projects\Develop\STA-Backend\STA\STA.ViewModel\obj\Debug\netcoreapp3.1\STA.ViewModel.pdb

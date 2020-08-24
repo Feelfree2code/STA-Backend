@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STA.Core\STA.Core.csproj" />
+    <ProjectReference Include="..\STA.Domain\STA.Domain.csproj" />
+    <ProjectReference Include="..\STA.ViewModel\STA.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

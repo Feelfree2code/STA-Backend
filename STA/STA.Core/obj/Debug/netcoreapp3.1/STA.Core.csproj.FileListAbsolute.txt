@@ -1,0 +1,8 @@
+E:\Projects\Develop\STA-Backend\STA\STA.Core\bin\Debug\netcoreapp3.1\STA.Core.deps.json
+E:\Projects\Develop\STA-Backend\STA\STA.Core\bin\Debug\netcoreapp3.1\STA.Core.dll
+E:\Projects\Develop\STA-Backend\STA\STA.Core\bin\Debug\netcoreapp3.1\STA.Core.pdb
+E:\Projects\Develop\STA-Backend\STA\STA.Core\obj\Debug\netcoreapp3.1\STA.Core.AssemblyInfoInputs.cache
+E:\Projects\Develop\STA-Backend\STA\STA.Core\obj\Debug\netcoreapp3.1\STA.Core.AssemblyInfo.cs
+E:\Projects\Develop\STA-Backend\STA\STA.Core\obj\Debug\netcoreapp3.1\STA.Core.csproj.CoreCompileInputs.cache
+E:\Projects\Develop\STA-Backend\STA\STA.Core\obj\Debug\netcoreapp3.1\STA.Core.dll
+E:\Projects\Develop\STA-Backend\STA\STA.Core\obj\Debug\netcoreapp3.1\STA.Core.pdb
