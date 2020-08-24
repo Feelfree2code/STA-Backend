@@ -1,0 +1,12 @@
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\bin\Debug\netcoreapp3.1\STA.Domain.deps.json
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\bin\Debug\netcoreapp3.1\STA.Domain.dll
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\bin\Debug\netcoreapp3.1\STA.Domain.pdb
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\bin\Debug\netcoreapp3.1\STA.Core.dll
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\bin\Debug\netcoreapp3.1\STA.Core.pdb
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.csprojAssemblyReference.cache
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.AssemblyInfoInputs.cache
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.AssemblyInfo.cs
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.csproj.CopyComplete
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.dll
+E:\Projects\Develop\STA-Backend\STA\STA.Domain\obj\Debug\netcoreapp3.1\STA.Domain.pdb

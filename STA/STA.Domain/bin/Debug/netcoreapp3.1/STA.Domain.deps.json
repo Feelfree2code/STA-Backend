@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "STA.Domain/1.0.0": {
+        "dependencies": {
+          "STA.Core": "1.0.0"
+        },
+        "runtime": {
+          "STA.Domain.dll": {}
+        }
+      },
+      "STA.Core/1.0.0": {
+        "runtime": {
+          "STA.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STA.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STA.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
